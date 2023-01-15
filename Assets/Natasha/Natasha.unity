@@ -1032,7 +1032,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9defee8d01f81ef46bed153f9b62eb96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vec: {x: 0, y: 0, z: 0}
+  vec: {x: 0, y: 0, z: 0.09}
 --- !u!114 &306118588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2791,7 +2791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9defee8d01f81ef46bed153f9b62eb96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vec: {x: 0, y: 0, z: 0}
+  vec: {x: 0, y: 0, z: 0.09}
 --- !u!114 &1355480255
 MonoBehaviour:
   m_ObjectHideFlags: 0
